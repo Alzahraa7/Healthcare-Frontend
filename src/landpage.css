@@ -1,0 +1,68 @@
+.bg-img {
+    /* The image used */
+    background-image: url("./imges/slide.jpg");
+    min-height: 420px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Needed to position the navbar */
+    position: relative;
+    border-bottom: 5px solid #B1B1B1;
+  }
+  
+  /* Position the navbar container inside the image */
+  .have {
+    float: right;
+    margin-top: 10px;
+    margin-right: 130px;
+    width: auto;
+  }
+
+  /* The navbar */
+  .topnav {
+    overflow: hidden;
+    
+  }
+  
+  /* Navbar links */
+  .topnav a {
+    float: left;
+    color:  #3880B2;
+    font-weight: bolder;
+    font-family: Segoe UI;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    border-bottom: 4px solid #B1B1B1;
+  }
+  
+  .topnav a:hover {
+ 
+    color: #8F8F8F;
+    border-bottom: 4px solid #FFFFFF;
+  }
+  .getStarted
+  {
+    width: 200px;
+    height: 60px;
+    background: #3880B2;
+    border-radius: 100px;
+    color: #FFFFFF;
+    font-family: Segoe UI;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 210px;
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px #888888;
+    border: #FFFFFF;
+  }
+.p-3
+{
+  background-Color: white !important;
+  border: hidden !important;
+}

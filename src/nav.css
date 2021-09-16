@@ -1,0 +1,33 @@
+.navv{
+    background: linear-gradient(180deg, rgba(65, 198, 206, 0.663177) 29.17%, rgba(122, 209, 214, 0.44) 83.85%)
+}
+
+.footerr{
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+background: linear-gradient(180deg, #41C6CE 0%, rgba(65, 198, 206, 0) 100%);
+}
+
+.bblood{
+    font-weight: bold;
+    color:rgb(199, 50, 50);
+font-size: 19px;
+}
+
+.bblood:hover{
+    color: white;
+}
+
+.links:hover{
+    transform: scale(1.1);
+    border-bottom: 1px solid rgb(206, 169, 169);
+}
+
+.logo:hover{
+    color: black !important;
+}
+
+.logo:active{
+    color: black !important;
+}

@@ -1,0 +1,112 @@
+.containeer
+{
+    width: 100%;
+    height:100vh;
+    margin:0px;
+    padding: 0px;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+    
+}
+.navbarr
+{
+    background-color: #8B0A19;
+    width: 100vw;
+    top: 0;
+    
+    
+}
+.Brandd
+{
+    font-size: 25px;
+    font-family: Segoe UI;
+    font-style: italic;
+    font-weight: bold;
+    color: #ebe4e4;
+}
+.Linkk
+{
+    font-size: 17px;
+    font-family: Segoe UI;
+    margin-top: 1%;
+    color: #ffffff;
+    opacity: 70%;
+    margin-right: 15px;
+}
+.selected
+{
+    font-weight: bold;
+    color: #ffffff;
+    opacity: 100%;
+    text-decoration: underline;
+}
+.Linkk:hover
+{
+    font-weight: bold;
+    color: #ffffff;
+    opacity: 100%;
+    text-decoration: underline overline;
+}
+
+.cardd
+{
+    margin: 20px;
+    box-shadow: inset 0px 0px 9px 3px rgba(0, 0, 0, 0.3) !important;
+}
+.cardd:hover {
+    transform: scale(1.10);
+}
+.cardgroup 
+{
+    width: 100vw;
+    background-color: #f6f3f3;
+    margin-bottom: 20px;
+}
+
+.hh33
+{
+    color: black;
+    margin-left: 20%;
+    margin-top: 20px;
+    font-family: Segoe UI;
+    font-size: 30px;
+    font-weight: bold;
+}
+.card-title
+{
+    font-family: Segoe UI;
+    color: #C02930;
+    text-align: center;
+    font-weight: bold;
+}
+.cardtext 
+{
+    font-weight: bold;
+    color: #C02930;
+}
+.footterr
+{
+
+    background-color: #D6D6D6;
+    width: 100vw;
+}
+.chat-button
+{
+  position: relative;
+  width: 100px;
+  height: 30px;
+  margin-top: 5px;
+  margin-left:28%;
+  background: #C02930;
+  border-radius: 10px;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-size:16px;
+  font-weight: bold;
+  text-align: center;
+  color: #F6EEEE;
+  
+  }
+  

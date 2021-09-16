@@ -1,0 +1,42 @@
+.sett{
+    position: relative;
+    width: 70%;
+    height: fit-content;
+    left: 35px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px 3px rgba(0,0,0,0.5);
+    background: #f2f8f8;
+}
+
+.edit{
+    font-family:cursive;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.inputEdit{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: powderblue;
+}
+
+.inputEdit:focus{
+    outline:0px ;
+}
+
+.field:hover{
+    transform: scale(0.95);
+    border-radius: 20px;
+}
+
+.ima{
+    position: absolute;
+  top: -33px;
+  margin-left: -30px;
+  width: 70px;
+  height: 70px;
+  left:43%;
+  border-radius: 50px;
+  box-shadow: 2px 5px 5px 5px rgba(0,0,0,0.5);
+}

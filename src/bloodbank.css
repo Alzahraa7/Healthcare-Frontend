@@ -1,0 +1,49 @@
+.helo
+{
+    background-color: #ffffff;
+}
+.navbarr
+{
+    background-color: #8B0A19;
+    width: 100vw;
+    top: 0;
+}
+.Brandd
+{
+    font-size: 25px;
+    font-family: Segoe UI;
+    font-style: italic;
+    font-weight: bold;
+    color: #ebe4e4;
+}
+.Linkk
+{
+    font-size: 17px;
+    font-family: Segoe UI;
+    margin-top: 1%;
+    color: #ffffff;
+    opacity: 70%;
+    margin-right: 15px;
+}
+.selected
+{
+    font-weight: bold;
+    color: #ffffff;
+    opacity: 100%;
+    text-decoration: underline;
+}
+.Linkk:hover
+{
+    font-weight: bold;
+    color: #ffffff;
+    opacity: 100%;
+    text-decoration: underline overline;
+}
+.footterr
+{
+
+    background-color: #D6D6D6;
+    width: 100vw;
+    bottom: 0 !important;
+
+}

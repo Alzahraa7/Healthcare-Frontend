@@ -1,0 +1,60 @@
+.doctorinf{
+    position: relative;
+width: 100%;
+height: 260px;
+background: linear-gradient(180deg, rgba(65, 198, 206, 0) 0%, #c7f6f8 100%);
+font-weight: bold;
+font-size: 20px;
+border-radius: 20px;
+}
+
+.spatient{
+background: #F4EFEF;
+font-weight: bold;
+font-size: 17px;
+text-align: center;
+width: 66px;
+}
+
+.status{
+    position: relative;
+width: 1227px;
+height: 285px;
+background: linear-gradient(180deg, #41C6CE 0%, rgba(65, 198, 206, 0) 100%);
+border: 1px solid #91d2d4;
+border-radius: 10px;
+}
+.parg:hover{
+    font-size: 20px;
+    transform: rotateX(30deg);
+    transition-duration: 1s;
+}
+
+.caard{
+background: rgb(241, 245, 245);
+border-radius: 50px;
+width:min-content;
+box-shadow: inset 0px 0px 20px 4px rgba(145, 192, 190, 0.25);
+}
+
+.caard:hover{
+border-radius: 10px;
+box-shadow: inset 0px 0px 20px 4px rgba(145, 192, 190, 1);
+transition-duration: 1s;
+transform: scale(0.9);
+transition: transform 0.1s linear 0.5s;
+}
+
+.docinfo{
+width: 1284px;
+height: 644px;
+left: 78px;
+top: 482px;
+background: #FCF8F8;
+}
+
+.bContact:hover{
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.5) !important;
+  transform: scale(0.90) !important;
+  transition: transform 0.1s linear 0.1s !important;
+}

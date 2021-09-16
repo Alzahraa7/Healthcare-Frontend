@@ -1,0 +1,66 @@
+.bigsurvey {
+    background: url(./imges/surveybg.jpg);
+    filter: brightness(90%);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div11 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 1000px;
+    transform: translate(-50%, -50%);
+}
+
+.childsurvey {
+    position: relative;
+    width: 5555px;
+    height: 600px;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px 5px rgba(5, 21, 26, 0.25);
+}
+
+
+.submit:hover {
+    opacity: 0.9;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.submit {
+    position: relative;
+    width: 150px;
+    height: 40px;
+    margin-top: 5px;
+    background: rgba(255, 153, 241);
+    border-radius: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #000000;
+    left: 40%;
+}
+
+.questions {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    top:5%;
+    left:5% ;
+    font-size: 20px;
+    line-height: 40px;
+    color: rgb(46, 37, 46);
+}
+
+.spann{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: #0c0a0a;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px 5px rgba(5, 21, 26, 0.5);
+    background: rgba(255, 153, 241, 0.4);
+}

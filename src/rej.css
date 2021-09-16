@@ -1,0 +1,110 @@
+.bigbig{
+    background-color: #E6E6E6;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .reg{
+    font-family: Arial Rounded MT Bold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: #A50013;
+    text-align: center;
+    margin-left: 0px;
+    }
+  
+  .roow{
+    background-color: #E6E6E6;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 1000px;
+  transform: translate(-50%, -50%);
+  }
+  
+.col10
+{
+    background: url(./imges/dl.jpg);
+    background-size: 100%;
+    filter: brightness(90%);
+    left: 0%;
+    right: 0%;
+    border-radius: 50px 0px 0px 50px;
+    position: relative;
+    backdrop-filter: blur(4px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 50px 0px 0px 50px;
+}
+  
+  .title{
+  position: relative;
+  width: 380px;
+  height: 200px;
+  top: 40px;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 40px;
+  text-align: center;
+  color:rgb(255, 255, 255);
+  }
+  
+  
+  
+  .submit:hover{
+    opacity: 0.9;
+    box-shadow: inset 0px 4px 4px #970011;
+  }
+  .submmit{
+    position: relative;
+  width: 130px;
+  height: 50px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  left:10%;
+  background: #A50013;
+  border-radius: 15px;
+  font-family: Quattrocento Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  color: #F6EEEE;
+  
+  }
+  .cancel{
+    position: relative;
+  width: 130px;
+  height: 50px;
+  margin-top: 5px;
+  left:30%;
+  background: #FEACB2;
+  border-radius: 15px;
+  font-family: Quattrocento Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  color: #F6EEEE;
+  
+  }
+  .cancel:hover{
+    opacity: 0.9;
+    box-shadow: inset 0px 4px 4px #FEACB2;
+  }
+
+.llabell
+{
+    color: #000000;
+    font-weight: bold;
+}
+.inputtt
+{
+   border-color: #970011;
+}
+
